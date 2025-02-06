@@ -1,0 +1,634 @@
+<!doctype html>
+<html lang="en"> 
+<head>
+	
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+	<title>Электромонтер по эксплуатации распределительных сетей 4 разряда &mdash; Россети Урал</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="Россети Урал">
+
+	<!-- Button visually impaired -->
+	<link href="/public/themes/default/libs/button-visually-impaired-javascript/css/bvi.min.css" rel="stylesheet" />
+
+	<link href="/public/themes/default/css/style.css?v29.8" rel="stylesheet" />
+	<link href="/public/themes/default/css/media.css?v29.6" rel="stylesheet" />
+	<link href="/public/themes/default/css/custom.css?v27.5" rel="stylesheet" />
+
+	<script src="/public/themes/default/libs/jquery/jquery-3.6.1.min.js?v29.6"></script>
+	<script src="/public/themes/default/js/search.js?v29.6"></script>
+	<script src="/public/themes/default/js/menu.js?v29.6"></script>
+	<script src="/public/themes/default/js/services.js?v29.6"></script>
+	<script src="/public/themes/default/js/accordeon.js?v29.6"></script>
+	<script src="/public/themes/default/js/modalCard.js?v29.6"></script>
+
+	<script src="/public/themes/default/libs/jquery-ui/jquery-ui.min.js?v29.6"></script>
+	<link rel="stylesheet" type="text/css" href="/public/themes/default/libs/jquery-ui/jquery-ui.min.css?v29.6" />
+
+	<script src="/public/themes/default/js/litepicker.js?v29.6"></script>
+	<script src="/public/themes/default/js/litepicker/dist/plugins/mobilefriendly.js"></script>
+	
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="icon" href="/favicon.svg" type="image/svg" />
+
+
+	<script src="/public/themes/default/js/site.js?v29.7"></script>
+	<script src="/public/themes/default/js/jquery.mask.min.js?v29.6"></script>
+	<script src="/public/themes/default/js/jquery.scrollTo.min.js?v29.6"></script>
+    <script src="/public/themes/default/js/jquery.cookie.js?v29.6"></script>
+
+
+	<!-- SLICK SLIDER-->
+	<link rel="stylesheet" type="text/css" href="/public/themes/default/libs/slick/slick.css?v29.6"/>
+	<script type="text/javascript" src="/public/themes/default/libs/slick/slick.min.js?v29.6"></script>
+
+	<!-- Arctic Modal -->
+	<link href="/public/themes/default/libs/arcticmodal/jquery.arcticmodal-0.3.css?v29.6" rel="stylesheet" />
+	<script src="/public/themes/default/libs/arcticmodal/jquery.arcticmodal-0.3.min.js?v29.6"></script>
+	<link href="/public/themes/default/libs/arcticmodal/themes/simple.css?v29.6" rel="stylesheet" />
+
+	
+	<meta name="yandex-verification" content="708e227428938e05" />
+
+	<script type="text/javascript" src="https://vk.com/js/api/share.js?11" charset="UTF-8"></script>
+	
+		<meta property="og:title" content="Электромонтер по эксплуатации распределительных сетей 4 разряда" />
+	<meta name="title" content="Электромонтер по эксплуатации распределительных сетей 4 разряда" />
+	<meta property="og:url" content="https://rosseti-ural.ru/vacancies/y-lektromonter-operativno-vyezdnoi-brigady-raspredelitelnyh-setei-4-razryada-lysvenskogo-raiona-y-lektricheskih-setei-g-lysva.html" />
+	
+	
+		<script type="text/javascript" src="https://api-maps.yandex.ru/2.1/?lang=ru_RU&amp;apikey=8d954279-e15d-4610-96e9-050f14ad499c"></script>
+
+	
+						<meta property="og:image" content="https://rosseti-ural.ru/public/themes/default/img/logo-mrsk-8.png?v2"/>
+			<meta name="twitter:image" content="https://rosseti-ural.ru/public/themes/default/img/logo-mrsk-8.png?v2"/>
+			<link rel="image_src" href="https://rosseti-ural.ru/public/themes/default/img/logo-mrsk-8.png?nocache=1733074365">
+			
+		
+	<meta property="og:description" content="" />
+	 
+	<meta property="og:site_name" content="Россети Урал" />
+		
+	<meta name="twitter:card" content="photo">
+	<meta name="twitter:creator" content="@mrskural">
+	<meta name="twitter:title" content="Электромонтер по эксплуатации распределительных сетей 4 разряда" />
+	
+	<meta name="twitter:description" content="" />
+
+
+	
+		
+	<!--recaptcha-->
+	<script src="https://www.google.com/recaptcha/api.js"></script>
+
+	
+</head>
+
+	
+	
+<body class="white-background">
+
+
+
+
+
+<header class="header f__flex f__direction_row f__justify_content_center f__align_center f__wrap">
+	<div class="base__wrapper f__flex f__direction_column f__justify_content_between f__align_center f__wrap desctop_tablet__show">
+		<div class="header__top f__flex f__direction_row f__justify_content_between f__align_center f__wrap">
+			<div class="header__top__left f__flex f__direction_row f__justify_content_between f__align_center f__wrap">
+				<a href="/" class="header__bottom__logo tablet__show">
+					<img src="/public/themes/default/images/base/logo.svg" class="header__bottom__logo__image" alt="">
+				</a>
+
+									<a href="tel:+78002200220" class="header__top__left__link f__flex f__direction_row f__justify_content_between f__align_center f__wrap">
+						<img src="/public/themes/default/images/icons/phone.svg" alt="" class="header__top__left__link__icon">
+						<span class="header__top__left__link__text">8 800 2200 220</span>
+					</a>
+					
+					<a href="https://t.me/rossetiural_client" target="_blank" class="header__top__left__link f__flex f__direction_row f__justify_content_between f__align_center f__wrap">
+						<img src="/public/themes/default/images/icons/telegram.svg" alt="" class="header__top__left__link__icon">
+						<span class="header__top__left__link__text">Задайте вопрос онлайн</span>
+					</a>
+							</div>
+
+			<div class="header__top__right f__flex f__direction_row f__justify_content_between f__align_center f__wrap">
+				
+				<a href="#" class="bvi-open header__top__right__link f__flex f__direction_row f__justify_content_between f__align_center f__wrap">
+					<img src="/public/themes/default/images/icons/version.svg" alt="">
+				</a>
+
+									<a href="https://rosseti-ural.ru/en" class="header__top__right__link">Eng</a>
+				
+				<div class="header__bottom__search tablet__show">
+					<img class="header__bottom_search__icon show-searh-form" src="/public/themes/default/images/icons/search.svg" alt="">
+				</div>
+
+				<div class="tablet__show">
+					<div class="js-services-basket-icon basket__icon hide">
+	<a href="/services/cart/">
+		<img src="/public/themes/default/images/catalog/basket.svg" alt="" />
+		<span class="js-services-basket-icon-count">0</span>
+	</a>
+</div>				</div>
+			</div>
+		</div>
+		<div class="header__bottom f__flex f__direction_row f__justify_content_between f__align_center f__wrap">
+			<a href="/" class="header__bottom__logo desctop__show">
+				<img src="/public/themes/default/images/base/logo.svg" class="header__bottom__logo__image" alt="">
+			</a>
+
+			<nav class="header__bottom__nav f__flex f__direction_row f__justify_content_between f__align_center f__wrap"><ul><li class="has-dropdown"><a href="/company/" class="header__bottom__nav__item ">О компании</a></li><li class="has-dropdown"><a href="/client/" class="header__bottom__nav__item ">Клиентам</a></li><li class="has-dropdown"><a href="/news/" class="header__bottom__nav__item ">Пресс-центр</a></li><li class="has-dropdown"><a href="/ir/" class="header__bottom__nav__item ">Акционерам и инвесторам</a></li><li class="has-dropdown"><a href="/career/" class="header__bottom__nav__item active">Наши люди</a></li><li ><a href="/contacts/" class="header__bottom__nav__item ">Контакты</a></li></ul></nav>
+			<div class="header__bottom__search desctop__show">
+				<img class="header__bottom_search__icon show-searh-form" src="/public/themes/default/images/icons/search.svg" alt="">
+			</div>
+
+			<div class="desctop__show">
+				<div class="js-services-basket-icon basket__icon hide">
+	<a href="/services/cart/">
+		<img src="/public/themes/default/images/catalog/basket.svg" alt="" />
+		<span class="js-services-basket-icon-count">0</span>
+	</a>
+</div>			</div>
+		</div>
+
+		<div class="header__bottom__search__wrapper">
+			<div class="header__bottom__search__wrapper_form">
+				<div class="header__bottom__search__wrapper_form__inner f__flex f__direction_row f__justify_content_between f__align_center f__wrap">
+					<div class="header__bottom__search__wrapper_form__inner__bordered f__flex f__direction_row f__justify_content_between f__align_center f__nowrap">
+						<form name="fast-search-form" action="/search/" method="get" class="interactive__search__form f__flex f__direction_row f__justify_content_between f__align_center f__nowrap">
+	<input type="text" name="search_query" value="" placeholder="Введите текст поиска" />
+	<input type="submit" value="Найти" />
+</form>
+<div class="header__bottom_search__close__icon">
+	<img class="close-search-icon" src="/public/themes/default/images/icons/close.svg" alt="" />
+</div>					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	<div class="base__wrapper f__flex f__direction_column f__justify_content_between f__align_center f__wrap mobile__show">
+		<div class="header__mobile__top f__flex f__direction_row f__justify_content_between f__align_center f__wrap">
+			<div class="header__top__left f__flex f__direction_row f__justify_content_between f__align_center f__wrap">
+				<a href="/" class="header__bottom__logo">
+					<img src="/public/themes/default/images/base/logo.svg" class="header__bottom__logo__image" alt="" />
+				</a>
+			</div>
+
+			<div class="header__mobile__top__icons">
+				<img class="header__bottom_search__icon show-searh-form" src="/public/themes/default/images/icons/search.svg" alt="" />
+				<span class="header__bottom_search__icon" id="menu__burger"></span>
+			</div>
+		</div>
+
+		<div class="header__bottom__search__wrapper">
+			<div class="header__bottom__search__wrapper_form">
+				<div class="header__bottom__search__wrapper_form__inner f__flex f__direction_row f__justify_content_between f__align_center f__wrap">
+					<div class="header__bottom__search__wrapper_form__inner__bordered f__flex f__direction_row f__justify_content_between f__align_center f__nowrap">
+						<form name="fast-search-form" action="/search/" method="get" class="interactive__search__form f__flex f__direction_row f__justify_content_between f__align_center f__nowrap">
+	<input type="text" name="search_query" value="" placeholder="Введите текст поиска" />
+	<input type="submit" value="Найти" />
+</form>
+<div class="header__bottom_search__close__icon">
+	<img class="close-search-icon" src="/public/themes/default/images/icons/close.svg" alt="" />
+</div>					</div>
+				</div>
+			</div>
+		</div>
+
+		<nav class="header__mobile__nav">
+			<ul><li class="has-dropdown"><a href="/company/" class="">О компании</a><ul class="mobile__submenu__block"><li ><a href="/company/about/" class="">Информация о компании </a></li><li class="has-dropdown"><a href="/company/filial/" class="">Территория обслуживания</a><ul class="mobile__submenu__block"><li><a href="/company/filial/sverd/" class="">Филиал «Свердловэнерго»</a></li><li><a href="/company/filial/chel/" class="">Филиал «Челябэнерго»</a></li><li><a href="/company/filial/perm/" class="">Филиал «Пермэнерго»</a></li><li><a href="/company/filial/eesk/" class="">АО «ЕЭСК»</a></li></ul></li><li class="has-dropdown"><a href="/company/controls/" class="">Органы управления и контроля</a><ul class="mobile__submenu__block"><li><a href="/company/controls/gsm/" class="">Собрание акционеров</a></li><li><a href="/company/controls/bod/" class="">Совет директоров</a></li><li><a href="/company/controls/committees/" class="">Комитеты при Совете директоров</a></li><li><a href="/company/controls/management/" class="">Правление</a></li><li><a href="/company/controls/head/" class="">Менеджмент</a></li><li><a href="/company/controls/audit-commission/" class="">Ревизионная комиссия</a></li><li><a href="/company/controls/risk-management/" class="">Внутренний контроль и управление рисками</a></li><li><a href="/company/controls/internal_audit/" class="">Внутренний аудит</a></li></ul></li><li class="has-dropdown"><a href="/company/highlights/" class="">Ключевые факты и цифры</a><ul class="mobile__submenu__block"><li><a href="/company/highlights/finance/" class="">Финансовые показатели</a></li><li><a href="/company/highlights/production/" class="">Производственные показатели</a></li><li><a href="/company/highlights/history/" class="">История компании</a></li><li><a href="/company/highlights/market-share/" class="">Положение на рынке</a></li><li><a href="/company/highlights/ratings/" class="">Рейтинги</a></li></ul></li><li ><a href="/company/rosseti/" class="">Информация о руководстве ПАО «Россети»</a></li><li ><a href="/company/documents/" class="">Учредительные и внутренние документы</a></li><li ><a href="/company/anticorruption/" class="">Антикоррупционная политика</a></li><li ><a href="/company/antimonopoly/" class="">Антимонопольная политика</a></li></ul></li><li class="has-dropdown"><a href="/client/" class="">Клиентам</a><ul class="mobile__submenu__block"><li class="has-dropdown"><a href="/client/tp/" class="">Технологическое присоединение</a><ul class="mobile__submenu__block"><li><a href="/client/tp/guide/" class="">Подаём заявку на портал-тп.рф</a></li><li><a href="/client/tp/tariff/" class="">Тарифы на техприсоединение</a></li><li><a href="/client/tp/docs/" class="">Формы и образцы документов</a></li><li><a href="/client/tp/commission/" class="">Контрольные комиссии по техприсоединению</a></li><li><a href="/client/tp/calculator/" class="">Калькулятор мощности</a></li><li><a href="/client/tp/4business/" class="">Для бизнеса</a></li><li><a href="/client/tp/faq/" class="">Вопросы и ответы по техприсоединению</a></li><li><a href="/client/tp/redistribution/" class="">Перераспределение мощности </a></li></ul></li><li class="has-dropdown"><a href="/client/transmission/" class="">Передача электроэнергии</a><ul class="mobile__submenu__block"><li><a href="/client/transmission/tariff/" class="">Тарифы на передачу электроэнергии</a></li><li><a href="/client/transmission/rab/" class="">Долгосрочное регулирование</a></li><li><a href="/client/transmission/quality/" class="">Качество электрической энергии</a></li><li><a href="/client/transmission/notice/" class="">Уведомление потребителей</a></li><li><a href="/client/transmission/readout/" class="">Передача показаний</a></li></ul></li><li class="has-dropdown"><a href="/client/meter/" class="">Коммерческий учёт электроэнергии</a><ul class="mobile__submenu__block"><li><a href="/client/meter/requirement/" class="">Требования к приборам учета и местам установки</a></li><li><a href="/client/meter/smartmetering/" class="">Интеллектуальные счётчики</a></li><li><a href="/client/meter/meter-request/" class="">Заявка на опломбировку</a></li><li><a href="/client/meter/dostup/" class="">Доступ к функциям ИСУ</a></li><li><a href="/client/meter/rre/" class="">Учет в точках РРЭ/ОРЭМ</a></li><li><a href="/client/meter/reprogramming/" class="">Перепрограммирование</a></li><li><a href="/client/meter/setup/" class="">Выносные дисплеи (пульты)</a></li></ul></li><li ><a href="/client/energysale/" class="">Энергосбытовая деятельность</a></li><li ><a href="/client/feedback/" class="">Интернет-приёмная</a></li><li ><a href="/client/cabinet/" class="">Личный кабинет</a></li><li ><a href="/client/front-office/" class="">Центры обслуживания клиентов</a></li><li ><a href="/client/handover/" class="">Передача объектов электросетевого хозяйства</a></li><li ><a href="/client/informaciya-ob-otklyucheniyah/" class="">Информация об отключениях</a></li><li class="has-dropdown"><a href="/client/legal/" class="">Нормативные документы и паспорта услуг</a><ul class="mobile__submenu__block"><li><a href="/client/legal/documents/" class="">Нормативные документы</a></li><li><a href="/client/legal/passport/" class="">Паспорта услуг</a></li></ul></li><li class="has-dropdown"><a href="/client/safety/" class="">Электробезопасность</a><ul class="mobile__submenu__block"><li><a href="/client/safety/how-to/" class="">Что делать, если погас свет?</a></li><li><a href="/client/safety/danger/" class="">Электричество - опасно!</a></li><li><a href="/client/safety/test/" class="">Проверь себя</a></li></ul></li><li ><a href="/client/stop-theft/" class="">Нет хищениям!</a></li><li ><a href="/client/services/" class="">Услуги</a></li><li ><a href="/client/faq/" class="">Ответы на вопросы</a></li><li ><a href="/client/diadoc/" class="">Электронный документооборот</a></li><li ><a href="/client/soft/" class="">Программное обеспечение</a></li><li ><a href="/client/declaration/" class="">Декларация прав клиента</a></li></ul></li><li class="has-dropdown"><a href="/news/" class="">Пресс-центр</a><ul class="mobile__submenu__block"><li ><a href="/news/company/" class="">Новости компании</a></li><li ><a href="/news/rosseti/" class="">Новости Группы «Россети»</a></li><li ><a href="/news/media/" class="">Публикации в СМИ</a></li><li ><a href="/events/" class="">Олимпиада для школьников</a></li><li ><a href="/brandbook/" class="">Фирменный стиль</a></li></ul></li><li class="has-dropdown"><a href="/ir/" class="">Акционерам и инвесторам</a><ul class="mobile__submenu__block"><li class="has-dropdown"><a href="/ir/shareholder-information/" class="">Информация для акционеров</a><ul class="mobile__submenu__block"><li><a href="/ir/shareholder-information/rights/" class="">Информация о правах акционеров</a></li><li><a href="/ir/shareholder-information/registrar/" class="">Реестродержатель</a></li><li><a href="/ir/shareholder-information/inheritance/" class="">Наследование акций</a></li><li><a href="/ir/shareholder-information/correction/" class="">Внесение изменений в реестр</a></li><li><a href="/ir/shareholder-information/taxation/" class="">Налогообложение</a></li><li><a href="/ir/shareholder-information/copies/" class="">Предоставление копий документов</a></li><li><a href="/ir/shareholder-information/faq/" class="">Ответы на вопросы</a></li></ul></li><li class="has-dropdown"><a href="/ir/shares/" class="">Информация по акциям</a><ul class="mobile__submenu__block"><li><a href="/ir/shares/shareholder-structure/" class="">Структура акционерного капитала</a></li><li><a href="/ir/shares/issue-information/" class="">Сведения о выпусках</a></li><li><a href="/ir/shares/share-chart/" class="">Динамика рынка акций</a></li><li><a href="/ir/shares/dividends/" class="">Дивиденды</a></li></ul></li><li class="has-dropdown"><a href="/ir/financial-information/" class="">Финансовая информация</a><ul class="mobile__submenu__block"><li><a href="/ir/financial-information/ras/" class="">Отчетность по РСБУ</a></li><li><a href="/ir/financial-information/ifrs/" class="">Отчетность по МСФО</a></li><li><a href="/ir/financial-information/auditor/" class="">Аудитор</a></li><li><a href="/ir/financial-information/accounting-policy/" class="">Учетная политика</a></li></ul></li><li class="has-dropdown"><a href="/ir/analyst-center/" class="">Центр аналитика</a><ul class="mobile__submenu__block"><li><a href="/ir/analyst-center/quick-analyzer/" class="">Интерактивный анализ данных</a></li><li><a href="/ir/analyst-center/ir-calendar/" class="">IR-календарь</a></li><li><a href="/ir/analyst-center/statistics/" class="">Ежеквартальная статистика</a></li></ul></li><li ><a href="/ir/bonds/" class="">Информация по облигациям</a></li></ul></li><li class="has-dropdown"><a href="/career/" class="active">Наши люди</a><ul class="mobile__submenu__block"><li class="has-dropdown"><a href="/vacancies/" class="active">Вакансии</a><ul class="mobile__submenu__block"><li><a href="/vacancies/vakansii-v-sverdlovskoi-oblasti/" class="">Вакансии в Свердловской области</a></li><li><a href="/vacancies/vakansii-v-permskom-krae/" class="">Вакансии в Пермском крае</a></li><li><a href="/vacancies/vakansii-v-chelyabinskoi-oblasti/" class="">Вакансии в Челябинской области</a></li></ul></li><li class="has-dropdown"><a href="/career/soiskatelyam/" class="">Соискателям</a><ul class="mobile__submenu__block"><li><a href="/career/soiskatelyam/social-policy/" class="">Наши ценности</a></li><li><a href="/career/soiskatelyam/staff-reserve/" class="">Кадровый резерв</a></li><li><a href="/career/soiskatelyam/learning/" class="">Научим новому!</a></li><li><a href="/career/soiskatelyam/assessment/" class="">Независимая оценка квалификации</a></li><li><a href="/career/soiskatelyam/sms/" class="">Совет молодых специалистов</a></li></ul></li><li class="has-dropdown"><a href="/career/shkolnikam/" class="">Школьникам</a><ul class="mobile__submenu__block"><li><a href="/career/shkolnikam/celevoe-obuchenie/" class="">Целевое обучение</a></li><li><a href="/career/shkolnikam/multiki/" class="">Мультики</a></li><li><a href="/career/shkolnikam/ynergokruzhok/" class="">Энергокружок</a></li><li><a href="/career/shkolnikam/olimpiada/" class="">Олимпиада</a></li></ul></li><li class="has-dropdown"><a href="/career/student/" class="">Студентам</a><ul class="mobile__submenu__block"><li><a href="/career/student/celevoe-obuchenie/" class="">Целевое обучение</a></li><li><a href="/career/student/tour/" class="">Экскурсии</a></li><li><a href="/career/student/professionalitet/" class="">Профессионалитет</a></li><li><a href="/practices/" class="">Практики</a></li><li><a href="/career/student/studencheskie-otryady/" class="">Студенческие отряды</a></li><li><a href="/career/student/konkurs-vypusknyh-rabot/" class="">Конкурс выпускных работ</a></li></ul></li><li ><a href="/blog/" class="">Блог</a></li><li ><a href="/career/events/" class="">Календарь событий</a></li><li ><a href="/career/kontakty/" class="">Рекрутеры</a></li></ul></li><li ><a href="/contacts/" class="">Контакты</a></li></ul>
+			<div class="mobile__additional__info">
+				<div class="mobile__additional__info__top" style="margin-bottom:10px;">
+					<a href="#" class="js-regions-modal header__top__region_link header__top__left__link f__flex f__direction_row f__justify_content_between f__align_center f__wrap">
+						<img src="/public/themes/default/images/icons/geo-alt.svg" alt="" class="header__top__left__link__icon" />
+						<span class="header__top__left__link__text"></span>
+					</a>
+				</div>
+
+								<div class="mobile__additional__info__top">
+					<a href="tel:+78002200220">
+						<img src="/public/themes/default/images/icons/phone.svg" />
+						<span>8 800 2200 220</span>
+					</a>
+
+					<a href="https://t.me/rossetiural_client" target="_blank">
+						<img src="/public/themes/default/images/icons/telegram.svg">
+						<span>Задайте вопрос онлайн</span>
+					</a>
+				</div>
+				
+				<div class="mobile__additional__info__bottom">
+					<a href="#" class="bvi-open">
+						<img src="/public/themes/default/images/icons/version.svg" alt="">
+					</a>
+
+											<a href="https://rosseti-ural.ru/en">Eng</a>
+									</div>
+			</div>
+		</nav>
+	</div>
+</header>
+
+<div class="wrapper-improved">
+	<div class="top-section-wrapper top-section-wrapper-second menu-level-2">
+		<div class="menu-navbar-wrapper">
+		<nav class="menu-navbar">
+			<div class="main-menu"><div class="nav-item active"><a   href="/vacancies/" title="Вакансии" class="nav-link">Вакансии</a></div><div class="nav-item"><a   href="/career/soiskatelyam/" title="Соискателям" class="nav-link">Соискателям</a></div><div class="nav-item"><a   href="/career/shkolnikam/" title="Школьникам" class="nav-link">Школьникам</a></div><div class="nav-item"><a   href="/career/student/" title="Студентам" class="nav-link">Студентам</a></div><div class="nav-item"><a   href="/blog/" title="Блог" class="nav-link">Блог</a></div><div class="nav-item"><a   href="/career/events/" title="Календарь событий" class="nav-link">Календарь событий</a></div><div class="nav-item"><a   href="/career/kontakty/" title="Рекрутеры" class="nav-link">Рекрутеры</a></div></div><div class="second-menu"><div class="nav-item"><a   href="/vacancies/vakansii-v-sverdlovskoi-oblasti/" title="Вакансии в Свердловской области" class="nav-link">Вакансии в Свердловской области</a></div><div class="nav-item"><a   href="/vacancies/vakansii-v-permskom-krae/" title="Вакансии в Пермском крае" class="nav-link">Вакансии в Пермском крае</a></div><div class="nav-item"><a   href="/vacancies/vakansii-v-chelyabinskoi-oblasti/" title="Вакансии в Челябинской области" class="nav-link">Вакансии в Челябинской области</a></div></div>
+		</nav>
+	</div>
+	</div>
+
+<div class="base__wrapper">
+	<div class="breadcrumbs">
+		<a href="/career/">Кадровая политика</a>
+		<a href="/vacancies/">Вакансии</a>
+		<span class="active">Электромонтер по эксплуатации распределительных сетей 4 разряда</span>
+	</div>
+
+	<div class="js-job-back-to-list back-to-list" style="display:none;">
+		<a href="#">&larr; вернуться к списку вакансий</a>
+	</div>
+
+	
+	<script>
+	$('.js-job-back-to-list a').on('click', function(){
+		if (window.opener){
+			window.opener.focus();
+			window.close();
+		}
+		return false;
+	});
+
+	if (window.opener && 0 === window.opener.location.pathname.indexOf('/vacancies/map/')){
+		$('.js-job-back-to-list').show();
+	}
+	</script>
+	
+
+	<div class="head-block">
+		<div class="head-block-header">
+			<h1 class="h1 head-block-title montserrat-bold">Электромонтер по эксплуатации распределительных сетей 4 разряда</h1>
+			<a href="/vacancies/send-resume/y-lektromonter-operativno-vyezdnoi-brigady-raspredelitelnyh-setei-4-razryada-lysvenskogo-raiona-y-lektricheskih-setei-g-lysva.html" role="button" class="head-block-btn btn">Откликнуться</a>
+		</div>
+		<div class="head-block-text">14 ноября 2024 года</div>
+	</div>
+</div>
+
+<div class="job-page-wrapper base__wrapper">
+	<div class="job-page">
+		<div class="info-block">
+			<div class="info-item">
+				<div class="info-item-title">Место работы</div>
+				<div class="info-item-value montserrat-medium">Пермский край, Лысьва, ул. Металлистов, 70</div>
+			</div>
+						<div class="info-item">
+				<div class="info-item-title">Зарплата</div>
+				<div class="info-item-value montserrat-medium">
+											39000 &mdash; 50000 ₽
+									</div>
+			</div>
+									<div class="info-item">
+				<div class="info-item-title">Требования к образованию</div>
+				<div class="info-item-value montserrat-medium">Среднее профессиональное</div>
+			</div>
+									<div class="info-item">
+				<div class="info-item-title">Уровень должности</div>
+				<div class="info-item-value montserrat-medium">Рабочий</div>
+			</div>
+									<div class="info-item">
+				<div class="info-item-title">График работы</div>
+				<div class="info-item-value montserrat-medium">Полный день</div>
+			</div>
+									<div class="info-item">
+				<div class="info-item-title">Тип занятости</div>
+				<div class="info-item-value montserrat-medium">Полная </div>
+			</div>
+									<div class="info-item">
+				<div class="info-item-title">Опыт работы</div>
+				<div class="info-item-value montserrat-medium">От 1 года до 3 лет</div>
+			</div>
+									<div class="info-item">
+				<div class="info-item-title">Специализация</div>
+				<div class="info-item-value montserrat-medium">Производственный персонал</div>
+			</div>
+						<div class="info-item">
+				<div class="info-item-title">Код вакансии</div>
+				<div class="info-item-value montserrat-medium">1114</div>
+			</div>
+						<div class="info-item info-item-contacts">
+				<div class="info-item-title">Рекрутер</div>
+								<div class="info-item-img">
+					<img src="/public/content/uu_photo/a6da81cf6da97ff4dd4369fa8976d8b47745246c.PNG" alt="" />
+				</div>
+								<div class="info-item-value montserrat-medium">Шубникова Елена Викторовна</div>
+				<div class="info-item-links montserrat-medium">
+					<a href="tel:+73425665357">+7 (34256) 6-53-57</a><br />
+					<a href="mailto:Shubnikova-EV@rosseti-ural.ru">Shubnikova-EV@rosseti-ural.ru</a>
+				</div>
+			</div>
+					</div>
+		<div class="content-block">
+			<!--noindex--><!--/noindex-->
+			<p><strong>С нами надежно! Мы заботимся о каждом сотруднике:</strong></p>
+
+<ul>
+	<li>Оформляем&nbsp;в соответствии с ТК РФ.</li>
+	<li>Своевременно выплачиваем заработную&nbsp;плату:&nbsp;2 раза в месяц (оклад + ежемесячная премия).</li>
+	<li>Вознаграждаем по итогам работы за год.</li>
+	<li>Ежегодно&nbsp;индексируем заработную&nbsp;плату.</li>
+	<li>Выплачиваем надбавку&nbsp;за стаж работы в организациях электроэнергетики.</li>
+	<li>Выплачиваем материальную&nbsp;помощь при уходе работника в основной отпуск.</li>
+	<li>Выплачиваем материальную помощь при значимых событиях в Вашей жизни.</li>
+	<li>Предлагаем Вам график работы - пятидневная рабочая неделя с 8.00 до 17.00.</li>
+</ul>
+
+<p><strong>Широкий социальный пакет для Вас и Вашей семьи</strong>:</p>
+
+<ul>
+	<li>Имеем объемный пакет ДМС (включая стоматологию). Ваша семья будет иметь возможность пользоваться корпоративными программами медицинского страхования.</li>
+	<li>Компенсируем затраты на отдых и оздоровление Ваших детей в оздоровительных и детских лагерях.</li>
+	<li>Предоставляем санаторно-курортный отдых Вам и Вашим детям.</li>
+	<li>Компенсируем стоимость содержания Ваших детей в дошкольных учреждениях.</li>
+	<li>Обеспечиваем непрерывный рост Ваших профессиональных компетенций.</li>
+	<li>Имеем передовые программы обучения, подготовки и переподготовки кадров, а также программы бесплатного целевого обучения в ВУЗах.</li>
+	<li>Вознаграждаем Ваш труд в нашей компании (действует система награждения корпоративными, отраслевыми и ведомственными наградами).</li>
+	<li>Заботимся о Вашем будущем и реализуем программу негосударственного пенсионного обеспечения.</li>
+	<li>Поддерживаем улучшение Ваших жилищных условий.</li>
+	<li>Имеем яркую&nbsp;корпоративную&nbsp;жизнь (обеспечиваем поддержку Ваших спортивных увлечений).</li>
+</ul>
+
+<p><strong>Задачи, которые Вам предстоит решать:</strong></p>
+
+<p>- Проведение ТО и Р на оборудовании РС Лысьвенского РЭС</p>
+
+<p><strong>Что мы ожидаем от Вас:</strong></p>
+
+<ul>
+	<li>
+	<p>Образование: среднее профессиональное.</p>
+	</li>
+	<li>
+	<p>Опыт работы: в электроэнергетике от 1 года.</p>
+	</li>
+	<li>
+	<p>Отсутствие медицинских противопоказаний для работы в электроустановках.</p>
+	</li>
+	<li>
+	<p>Ответственность, внимательность.</p>
+	</li>
+</ul>
+
+<p><strong>Будем рады видеть Вас в нашей команде!</strong></p>
+
+		</div>
+	</div>
+	<div class="share-block-wrapper base__wrapper">
+		<div class="share-title montserrat-medium">
+			Поделитесь вакансией
+		</div>
+		<div class="share-buttons">
+			<script src="https://yastatic.net/share2/share.js"></script>
+			<div class="ya-share2" data-curtain data-shape="round" data-services="vkontakte,odnoklassniki,telegram"></div>
+		</div>
+	</div>
+</div>
+
+
+	</div>
+
+<footer>
+	<div class="footer__outer__wrapper__bottom">
+		<div class="base__wrapper">
+			<div class="footer__inner__wrapper">
+				<div class="footer__inner__wrapper__top"><div class="footer__inner__wrapper__top__column"><ul><li class="has-dropdown-footer"><a href="/company/" class="footer__inner__wrapper__top__column__title ">О компании</a><ul class="mobile__footer__submenu__block"><li><a href="/company/about/" class="">Информация о компании </a></li><li><a href="/company/filial/" class="">Территория обслуживания</a></li><li><a href="/company/controls/" class="">Органы управления и контроля</a></li><li><a href="/company/highlights/" class="">Ключевые факты и цифры</a></li><li><a href="/company/rosseti/" class="">Информация о руководстве ПАО «Россети»</a></li><li><a href="/company/documents/" class="">Учредительные и внутренние документы</a></li><li><a href="/company/anticorruption/" class="">Антикоррупционная политика</a></li><li><a href="/company/antimonopoly/" class="">Антимонопольная политика</a></li></ul></li></ul></div><div class="footer__inner__wrapper__top__column"><ul><li class="has-dropdown-footer"><a href="/client/" class="footer__inner__wrapper__top__column__title ">Клиентам</a><ul class="mobile__footer__submenu__block"><li><a href="/client/tp/" class="">Технологическое присоединение</a></li><li><a href="/client/transmission/" class="">Передача электроэнергии</a></li><li><a href="/client/meter/" class="">Коммерческий учёт электроэнергии</a></li><li><a href="/client/energysale/" class="">Энергосбытовая деятельность</a></li><li><a href="/client/feedback/" class="">Интернет-приёмная</a></li><li><a href="/client/cabinet/" class="">Личный кабинет</a></li><li><a href="/client/front-office/" class="">Центры обслуживания клиентов</a></li><li><a href="/client/handover/" class="">Передача объектов электросетевого хозяйства</a></li><li><a href="/client/informaciya-ob-otklyucheniyah/" class="">Информация об отключениях</a></li><li><a href="/client/legal/" class="">Нормативные документы и паспорта услуг</a></li><li><a href="/client/safety/" class="">Электробезопасность</a></li><li><a href="/client/stop-theft/" class="">Нет хищениям!</a></li><li><a href="/client/services/" class="">Услуги</a></li><li><a href="/client/faq/" class="">Ответы на вопросы</a></li><li><a href="/client/diadoc/" class="">Электронный документооборот</a></li><li><a href="/client/soft/" class="">Программное обеспечение</a></li><li><a href="/client/declaration/" class="">Декларация прав клиента</a></li></ul></li></ul></div><div class="footer__inner__wrapper__top__column"><ul><li class="has-dropdown-footer"><a href="/news/" class="footer__inner__wrapper__top__column__title ">Пресс-центр</a><ul class="mobile__footer__submenu__block"><li><a href="/news/company/" class="">Новости компании</a></li><li><a href="/news/rosseti/" class="">Новости Группы «Россети»</a></li><li><a href="/news/media/" class="">Публикации в СМИ</a></li><li><a href="/events/" class="">Олимпиада для школьников</a></li><li><a href="/brandbook/" class="">Фирменный стиль</a></li></ul></li></ul><ul><li class="has-dropdown-footer"><a href="/ir/" class="footer__inner__wrapper__top__column__title ">Акционерам и инвесторам</a><ul class="mobile__footer__submenu__block"><li><a href="/ir/shareholder-information/" class="">Информация для акционеров</a></li><li><a href="/ir/shares/" class="">Информация по акциям</a></li><li><a href="/ir/financial-information/" class="">Финансовая информация</a></li><li><a href="/ir/analyst-center/" class="">Центр аналитика</a></li><li><a href="/ir/bonds/" class="">Информация по облигациям</a></li></ul></li></ul></div><div class="footer__inner__wrapper__top__column"><ul><li class="has-dropdown-footer"><a href="/career/" class="footer__inner__wrapper__top__column__title active">Наши люди</a><ul class="mobile__footer__submenu__block"><li><a href="/vacancies/" class="active">Вакансии</a></li><li><a href="/career/soiskatelyam/" class="">Соискателям</a></li><li><a href="/career/shkolnikam/" class="">Школьникам</a></li><li><a href="/career/student/" class="">Студентам</a></li><li><a href="/blog/" class="">Блог</a></li><li><a href="/career/events/" class="">Календарь событий</a></li><li><a href="/career/kontakty/" class="">Рекрутеры</a></li></ul></li></ul><ul><li ><a href="/contacts/" class="footer__inner__wrapper__top__column__title ">Контакты</a></li></ul><ul><li><a   href="/disclosure/" title="Раскрытие информации" class="footer__inner__wrapper__top__column__title">Раскрытие информации</a></li></ul><ul><li><a   href="/investments-innovations/" title="Инвестиции и инновации" class="footer__inner__wrapper__top__column__title">Инвестиции и инновации</a></li></ul><ul><li><a   href="/trade/" title="Закупки" class="footer__inner__wrapper__top__column__title">Закупки</a></li></ul></div></div>			</div>
+		</div>
+	</div>
+
+	<div class="footer__outer__wrapper__bottom fowb">
+		<div class="base__wrapper">
+			<div class="footer__inner__wrapper__bottom">
+				<div class="footer__inner__wrapper__bottom__copy">
+					© 2014-2024
+											ПАО «Россети Урал»
+										 620026, г. Екатеринбург, ул. Мамина-Сибиряка, 140 
+
+				</div>
+
+				<div class="footer__inner__wrapper__bottom__social">
+					<a target="_blank" rel="nofollow" href="https://vk.com/rosseti_ural" class="social__icon">
+						<svg width="18" height="11" viewBox="0 0 18 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M6.58498 1.03642C6.36546 1.16557 6.34724 1.23114 6.5301 1.23334C6.68113 1.23494 6.8045 1.41625 6.8045 1.63616C6.8045 1.85606 6.90328 2.03598 7.02402 2.03598C7.15222 2.03598 7.24354 2.70707 7.24354 3.64945C7.24354 4.8901 7.1588 5.34029 6.87694 5.59698C6.61045 5.83967 6.48576 5.86306 6.41968 5.68254C6.36963 5.546 6.18897 5.43445 6.01796 5.43445C5.84674 5.43445 5.7069 5.35089 5.7069 5.24873C5.7069 5.14678 5.5798 4.94427 5.4246 4.79894C5.04988 4.44849 3.95075 2.30545 3.95075 1.92563C3.95075 1.51201 3.03952 1.23573 1.6864 1.23933C0.537655 1.24253 -0.388059 1.56399 0.164033 1.7679C0.315062 1.82367 0.438432 2.04177 0.438432 2.25248C0.438432 2.46318 0.537216 2.63571 0.657952 2.63571C0.778688 2.63571 0.877472 2.81563 0.877472 3.03553C0.877472 3.25543 0.954742 3.43535 1.04914 3.43535C1.14353 3.43535 1.35712 3.86256 1.52396 4.38492C1.69079 4.90729 1.88529 5.37948 1.95619 5.43445C2.16803 5.59918 2.94644 6.69309 3.29526 7.31681C3.5971 7.85637 5.3717 9.60298 6.20631 10.1823C6.40432 10.3199 6.81767 10.4322 7.12456 10.4322C7.43145 10.4322 7.68258 10.5266 7.68258 10.6421C7.68258 10.7713 8.16794 10.829 8.94482 10.792L10.2071 10.7321L10.5431 9.76491C11.0632 8.26818 11.3666 8.25139 12.8299 9.63857L14.0886 10.832H16.0443C17.8239 10.832 18 10.7976 18 10.4496C18 10.111 15.9523 7.63766 15.5304 7.46694C15.44 7.43016 15.3658 7.23524 15.3658 7.03373C15.3658 6.83222 15.2424 6.61472 15.0914 6.55055C14.8718 6.45739 14.8718 6.41061 15.0914 6.31746C15.2424 6.25328 15.3658 6.02839 15.3658 5.81768C15.3658 5.60697 15.4479 5.43445 15.5482 5.43445C15.6485 5.43445 15.8707 5.18716 16.0417 4.8847C16.2129 4.58243 16.4048 4.28996 16.4682 4.23499C16.6366 4.08886 17.3998 3.01014 17.7219 2.46298C18.3168 1.45204 18.0171 1.23633 16.0166 1.23633C14.2201 1.23633 13.6096 1.52341 13.6096 2.36803C13.6096 2.73506 13.5341 3.03553 13.4419 3.03553C13.3497 3.03553 13.1117 3.37717 12.9131 3.79459C12.5206 4.61942 11.3819 5.83427 11.0013 5.83427C10.6904 5.83427 10.5827 5.30211 10.4635 3.18246C10.4092 2.21869 10.2433 1.29651 10.0944 1.13338C9.78141 0.789735 7.12851 0.716568 6.58498 1.03642Z" fill="#A9B7C1"/>
+						</svg>
+					</a>
+										<a target="_blank" rel="nofollow" href="https://ok.ru/rossetiural" class="social__icon">
+						<svg width="11" height="19" viewBox="0 0 11 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M4.33491 1.0489C4.33491 1.16818 4.10059 1.26577 3.8142 1.26577C3.52781 1.26577 3.29349 1.36336 3.29349 1.48263C3.29349 1.60191 3.14977 1.6995 2.97419 1.6995C2.55949 1.6995 1.21064 3.10394 1.21064 3.53572C1.21064 3.71854 1.11692 3.86818 1.00236 3.86818C0.88093 3.86818 0.794075 4.591 0.794075 5.60312C0.794075 6.61524 0.88093 7.33806 1.00236 7.33806C1.11692 7.33806 1.21064 7.48444 1.21064 7.66336C1.21064 7.84227 1.30437 7.98866 1.41893 7.98866C1.53348 7.98866 1.62721 8.09059 1.62721 8.21528C1.62721 8.56357 2.60927 9.50673 2.97169 9.50673C3.14873 9.50673 3.29349 9.60432 3.29349 9.7236C3.29349 9.85263 4.07663 9.94046 5.22615 9.94046C6.91992 9.94046 7.19611 9.8869 7.45917 9.50673C7.62434 9.26818 7.88594 9.073 8.0407 9.073C8.42207 9.073 8.91716 8.53061 8.91716 8.11249C8.91716 7.92512 9.01089 7.77179 9.12544 7.77179C9.24 7.77179 9.33373 7.48487 9.33373 7.13398C9.33373 6.78309 9.42745 6.43589 9.54201 6.36215C9.65657 6.28842 9.75029 5.94685 9.75029 5.60312C9.75029 5.25938 9.65657 4.91781 9.54201 4.84408C9.42745 4.77034 9.33373 4.37434 9.33373 3.96381C9.33373 3.55328 9.24 3.21757 9.12544 3.21757C9.01089 3.21757 8.91716 3.07119 8.91716 2.89227C8.91716 2.71336 8.77573 2.56697 8.60286 2.56697C8.42998 2.56697 7.99425 2.2742 7.63475 1.91637C7.27504 1.55854 6.81286 1.26577 6.60749 1.26577C6.40213 1.26577 6.17614 1.16818 6.10532 1.0489C6.03451 0.929622 5.60731 0.832031 5.15575 0.832031C4.70419 0.832031 4.33491 0.929622 4.33491 1.0489ZM6.00118 3.40907C6.00118 3.51447 6.18864 3.65174 6.41775 3.7142C6.66706 3.78208 6.83432 4.01001 6.83432 4.28153C6.83432 4.53136 6.92804 4.73565 7.0426 4.73565C7.15716 4.73565 7.25088 5.12601 7.25088 5.60312C7.25088 6.08022 7.15716 6.47059 7.0426 6.47059C6.92804 6.47059 6.83432 6.57512 6.83432 6.70285C6.83432 7.58181 4.49112 7.96567 3.69652 7.21704C2.91066 6.47622 3.35285 3.65131 4.25472 3.65131C4.41343 3.65131 4.54319 3.55372 4.54319 3.43444C4.54319 3.31516 4.87124 3.21757 5.27218 3.21757C5.67313 3.21757 6.00118 3.30389 6.00118 3.40907ZM0.221293 10.4818C-0.613926 11.4694 1.0059 12.9402 3.55384 13.5079C4.11767 13.6335 4.37406 14.2713 3.86627 14.2848C3.52301 14.2936 2.5747 15.1726 2.40182 15.6421C2.32663 15.846 2.16417 16.0128 2.04086 16.0128C1.61034 16.0128 0.794075 17.0813 0.794075 17.6449C0.794075 18.4013 1.24626 18.832 2.04045 18.832C2.56137 18.832 2.93732 18.5714 3.91834 17.5308C5.0437 16.337 5.7929 15.9037 5.7929 16.4465C5.7929 16.5658 5.89329 16.6634 6.01597 16.6634C6.29882 16.6634 6.83432 17.2129 6.83432 17.5031C6.83432 17.6241 7.1155 17.896 7.45917 18.1075C7.80284 18.3189 8.08402 18.5683 8.08402 18.662C8.08402 18.9318 9.22417 18.8594 9.50035 18.5718C9.63782 18.4287 9.75029 17.8919 9.75029 17.379C9.75029 16.672 9.67031 16.4465 9.41996 16.4465C9.02276 16.4465 6.83432 14.1273 6.83432 13.7066C6.83432 13.5437 7.03864 13.4103 7.28817 13.4103C7.87907 13.4103 9.15398 12.9426 9.50473 12.5971C9.65615 12.4481 9.85277 12.326 9.9415 12.326C10.1394 12.326 11 11.5648 11 11.39C11 11.0565 9.9642 10.1573 9.57992 10.1573C9.04234 10.1573 8.08402 10.5963 8.08402 10.8429C8.08402 10.9428 7.80284 11.0248 7.45917 11.0248C7.1155 11.0248 6.83432 11.1224 6.83432 11.2417C6.83432 11.3609 6.31736 11.4585 5.68542 11.4585C4.51007 11.4585 2.87692 11.0495 2.87692 10.7552C2.87692 10.6648 2.68946 10.5911 2.46035 10.5911C2.23124 10.5911 2.04378 10.4935 2.04378 10.3742C2.04378 10.0424 0.51664 10.1324 0.221293 10.4818Z" fill="#A9B7C1"/>
+						</svg>
+					</a>
+										<a target="_blank" rel="nofollow" href="https://www.youtube.com/c/%D0%A0%D0%BE%D1%81%D1%81%D0%B5%D1%82%D0%B8%D0%A3%D1%80%D0%B0%D0%BB" class="social__icon">
+						<svg width="17" height="15" viewBox="0 0 17 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M2.50149 0.969064C2.12443 1.02012 1.81611 1.1588 1.81611 1.27725C1.81611 1.39592 1.66701 1.49275 1.4848 1.49275C1.08559 1.49275 0.762515 1.84325 0.339897 2.73537C-0.0804017 3.62243 -0.125743 11.6566 0.287175 12.1067C0.432055 12.2649 0.550995 12.5545 0.550995 12.7506C0.551417 13.3737 1.50779 14.3721 2.10418 14.3721C2.40976 14.3721 2.65966 14.4756 2.65966 14.602C2.65966 14.7499 4.76853 14.832 8.5645 14.832C12.3605 14.832 14.4694 14.7499 14.4694 14.602C14.4694 14.4756 14.683 14.3688 14.9438 14.3647C15.4877 14.3564 16.1565 13.8709 16.1565 13.4843C16.1565 13.3401 16.2514 13.2221 16.3673 13.2221C16.4833 13.2221 16.5782 12.9116 16.5782 12.5322C16.5782 12.1527 16.6731 11.8422 16.7891 11.8422C16.9224 11.8422 17 10.2323 17 7.47243C17 4.71257 16.9224 3.10266 16.7891 3.10266C16.6731 3.10266 16.5782 2.88831 16.5782 2.62636C16.5782 1.95801 16.2212 1.65006 14.9196 1.19675C13.9615 0.86304 12.9765 0.808533 8.48753 0.839581C5.57222 0.85982 2.87856 0.918237 2.50149 0.969064ZM7.93184 5.19946C7.93184 5.311 8.12164 5.40254 8.35362 5.40254C8.58559 5.40254 8.77539 5.50603 8.77539 5.63252C8.77539 5.75902 8.94431 5.86251 9.15056 5.86251C9.35702 5.86251 9.66259 6.0695 9.82983 6.32249C9.99706 6.57547 10.2619 6.78246 10.4186 6.78246C10.7721 6.78246 11.306 7.34455 11.306 7.71644C11.306 8.05613 10.5546 8.78933 10.0156 8.97608C9.79756 9.05152 9.61894 9.20975 9.61894 9.32774C9.61894 9.44572 9.48418 9.54231 9.31969 9.54231C8.96772 9.54231 7.67814 10.2534 7.47548 10.5591C7.39577 10.6796 7.1001 10.6028 6.78989 10.3813C6.26499 10.0062 6.24495 9.90845 6.24791 7.75462C6.25128 5.45635 6.33142 5.09297 6.87741 4.89955C7.28674 4.75443 7.93184 4.93796 7.93184 5.19946Z" fill="#A9B7C1"/>
+						</svg>
+					</a>
+															<a target="_blank" rel="nofollow" href="https://t.me/rosseti_ural" class="social__icon">
+						<svg width="18" height="17" viewBox="0 0 18 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M17.1272 1.03203C17.1272 1.14197 16.8352 1.29123 16.4784 1.36369C16.1215 1.43615 15.6723 1.65466 15.4803 1.8494C15.2883 2.04415 14.8764 2.20346 14.5649 2.20346C14.2537 2.20346 13.9362 2.30632 13.8595 2.43203C13.7829 2.55775 13.4728 2.6606 13.1702 2.6606C12.8675 2.6606 12.6201 2.7422 12.6201 2.84186C12.6201 2.94175 12.2399 3.13557 11.775 3.27272C11.3103 3.41009 10.1186 3.8718 9.12701 4.29877C8.13544 4.72575 6.86779 5.21832 6.31003 5.3934C5.75227 5.56826 5.19969 5.7966 5.08183 5.90037C4.96419 6.00415 4.65996 6.09146 4.40575 6.0942C4.15178 6.09695 3.69024 6.30037 3.38037 6.54632C3.07051 6.79226 2.58892 6.99569 2.30992 6.99843C2.03093 7.00117 1.80287 7.10632 1.80287 7.23203C1.80287 7.35775 1.54213 7.4606 1.22347 7.4606C0.701315 7.4606 0 7.90975 0 8.24437C0 8.31615 0.202822 8.37489 0.450717 8.37489C0.698611 8.37489 0.901433 8.47775 0.901433 8.60346C0.901433 8.72917 1.14888 8.83203 1.45153 8.83203C1.75419 8.83203 2.06428 8.93489 2.1409 9.0606C2.21753 9.18632 2.47691 9.28917 2.7176 9.28917C2.95828 9.28917 3.15502 9.39203 3.15502 9.51775C3.15502 9.64346 3.32336 9.74632 3.52934 9.74632C3.73509 9.74632 4.18107 10.0617 4.52046 10.4471C5.09806 11.1033 5.22989 11.5171 5.5535 13.6892C5.62382 14.1607 5.7721 14.5463 5.88298 14.5463C5.99385 14.5463 6.08467 14.752 6.08467 15.0035C6.08467 15.3591 6.23499 15.4606 6.76075 15.4606C7.13259 15.4606 7.43682 15.3646 7.43682 15.2473C7.43682 15.1301 7.63965 14.9689 7.88754 14.8892C8.13544 14.8094 8.33826 14.6339 8.33826 14.499C8.33826 14.1134 9.0718 13.6473 9.69041 13.6396C10.0003 13.6357 10.5242 13.8638 10.8546 14.1465C11.185 14.4293 11.6679 14.8407 11.9275 15.0606C12.1874 15.2807 12.5002 15.4606 12.6225 15.4606C12.7451 15.4606 12.8454 15.5635 12.8454 15.6892C12.8454 15.8149 12.9752 15.9177 13.1337 15.9177C13.2923 15.9177 13.5681 16.1235 13.7469 16.3749C13.9377 16.6432 14.3303 16.832 14.6981 16.832C15.3133 16.832 15.3244 16.8078 15.3244 15.4606C15.3244 14.6988 15.4244 14.0892 15.5497 14.0892C15.6737 14.0892 15.7751 13.5235 15.7751 12.832C15.7751 12.1406 15.8765 11.5749 16.0004 11.5749C16.1244 11.5749 16.2258 11.0606 16.2258 10.432C16.2258 9.80346 16.3272 9.28917 16.4512 9.28917C16.5751 9.28917 16.6765 8.9806 16.6765 8.60346C16.6765 8.22632 16.7779 7.91775 16.9019 7.91775C17.0258 7.91775 17.1272 7.40346 17.1272 6.77489C17.1272 6.14632 17.2196 5.63203 17.3325 5.63203C17.4454 5.63203 17.5937 5.04049 17.662 4.31775C17.7301 3.59477 17.8509 2.51477 17.93 1.91775C18.0622 0.920717 18.0354 0.832031 17.6007 0.832031C17.3402 0.832031 17.1272 0.922088 17.1272 1.03203ZM13.9722 4.61512C13.9722 4.81009 13.3971 5.50449 12.694 6.15797C11.9909 6.81146 11.1843 7.57763 10.9013 7.8606C10.6184 8.14357 10.2808 8.37489 10.1513 8.37489C10.0217 8.37489 9.91577 8.47317 9.91577 8.59317C9.91577 8.92118 8.86695 9.91889 8.34547 10.0869C8.09352 10.168 7.88754 10.3815 7.88754 10.5616C7.88754 10.7417 7.78613 10.8892 7.66218 10.8892C7.53824 10.8892 7.43682 11.0963 7.43682 11.3495C7.43682 11.6025 7.31964 12.0398 7.17654 12.3209C7.03321 12.6021 6.84841 12.9801 6.76593 13.1612C6.48378 13.7801 6.08467 13.6921 6.08467 13.011C6.08467 12.6487 5.98416 12.2501 5.86157 12.1257C5.73875 12.0012 5.57446 11.4268 5.49649 10.8494C5.36803 9.89969 5.41852 9.73169 6.02563 9.08712C6.39477 8.69535 6.86329 8.37489 7.06679 8.37489C7.27028 8.37489 7.43682 8.27203 7.43682 8.14632C7.43682 8.0206 7.63965 7.91775 7.88754 7.91775C8.13544 7.91775 8.33826 7.82175 8.33826 7.70449C8.33826 7.58723 8.52868 7.4302 8.76148 7.35523C8.99405 7.28026 9.47587 6.96483 9.83193 6.65443C10.1878 6.3438 10.606 6.08963 10.7609 6.0894C10.9159 6.0894 11.0426 5.98632 11.0426 5.8606C11.0426 5.73489 11.1793 5.63203 11.3468 5.63203C11.514 5.63203 12.097 5.32529 12.6426 4.95043C13.7777 4.17032 13.9722 4.12117 13.9722 4.61512Z" fill="#A9B7C1"/>
+						</svg>
+					</a>
+					<a target="_blank" rel="nofollow" href="https://zen.yandex.ru/id/5f6cf668a35c1f716e7f10f1" class="social__icon">
+						<svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M2.84 1.1157C1.73835 1.33274 0.874095 2.01903 0.379176 3.06979C0.0910901 3.68138 0.0788212 3.79584 0.0413204 6.22585L0.0024306 8.74727L1.60386 8.66624C4.3611 8.52665 5.62016 8.13487 6.49599 7.14405C7.29925 6.2353 7.58143 5.16403 7.72842 2.46534L7.80852 0.995709L5.56471 1.00839C4.33066 1.0153 3.10459 1.0636 2.84 1.1157ZM8.06107 2.56907C8.20193 5.21648 8.47069 6.21744 9.2898 7.14405C10.1657 8.1351 11.4246 8.52665 14.1836 8.66635L15.7866 8.7475L15.7461 6.22332L15.7056 3.69902L15.3286 2.93677C14.9248 2.12 14.499 1.72096 13.5913 1.30831C13.0948 1.0825 12.8061 1.05519 10.5099 1.016L7.97623 0.972656L8.06107 2.56907ZM0.0430565 11.5136C0.083914 13.9413 0.100813 14.1058 0.35892 14.5934C0.764717 15.3599 1.05558 15.7134 1.54691 16.0372C2.32459 16.5497 3.09602 16.6717 5.55847 16.6717H7.80505L7.72426 15.0868C7.63502 13.3384 7.44358 12.2128 7.1063 11.4536C6.66185 10.4527 5.7594 9.70293 4.58171 9.35564C3.95125 9.16983 1.8644 8.94921 0.734624 8.9491L0 8.94898L0.0430565 11.5136ZM12.9979 9.07036C12.3998 9.119 11.6706 9.22355 11.3775 9.30262C9.83438 9.71861 8.85727 10.6532 8.41501 12.1363C8.23573 12.7373 8.0113 14.8871 8.00968 16.0188L8.00864 16.6912L10.5382 16.6527L13.0677 16.6141L13.8591 16.2107C14.43 15.9196 14.7561 15.6603 15.0295 15.2801C15.6335 14.4401 15.7634 13.7128 15.7634 11.1724V8.94898L14.9243 8.96547C14.4627 8.97446 13.5958 9.02172 12.9979 9.07036Z" fill="#A9B7C1"/>
+						</svg>
+					</a>
+				</div>
+
+							</div>
+		</div>
+	</div>
+</footer>
+
+
+
+
+<script>
+$(".votes").click(function(e){
+	e.preventDefault();
+		//$(".modal_soc").slideToggle();
+});
+
+$( ".chat_click" ).click(function() {
+	//$( ".chat_window" ).slideToggle();
+	$('.globalClass_ET').show();
+});
+	
+/*$( ".chat_click" ).click(function() {
+	//$( ".chat_window" ).slideToggle();
+	$('.globalClass_ET').show();
+	jivo_api.open();
+});*/
+/*function jivo_onLoadCallback () {
+	if(thisPageUrl.indexOf("/client/") != -1) {
+		$('.globalClass_ET').show();
+	}
+}*/
+$(".sb_menu").click(function(){
+	$(".section-menu").slideToggle();
+});
+</script>
+
+
+
+
+
+<div style="display:none;">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<div id="mess_callorder" class="mrsk__modal">
+		<div class="box-modal_close arcticmodal-close"><img src="/public/themes/default/images/icons/close.svg" alt=""></div>
+		<div class="mrsk__modal__content">
+			<div id="callorder_form_box"></div>
+		</div>
+	</div>
+
+
+	
+					
+	
+
+	</div>
+
+<script>
+$(function(){
+	$('#mess').arcticmodal();
+});
+</script>
+
+
+
+<!--LiveInternet counter-->
+<script type="text/javascript">
+thisPageUrl = document.URL;
+if(thisPageUrl.indexOf("/ru/") == -1) {
+    thisPageUrl = thisPageUrl.replace('mrsk-ural.ru','mrsk-ural.ru/ru');
+    thisPageUrl = thisPageUrl.replace('rosseti-ural.ru','rosseti-ural.ru/ru');
+}
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t28.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(thisPageUrl)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано количество просмотров и"+
+" посетителей' "+
+"border='0' style='display:none;'><\/a>")
+</script>
+<!-- end LiveInternet -->
+
+<!-- WebVisor -->
+<!--
+<script type="text/javascript" id="__visorCode"></script>
+<script type="text/javascript">
+try {
+    var __visorInit = new Function('', 'if (typeof window["__visor"] != "undefined") __visor.init(14387);');
+    setTimeout('document.getElementById("__visorCode").src="//c1.web-visor.com/c.js";',10);
+} catch(e){}
+</script>
+<noscript><img src="//c1.web-visor.com/noscript?sid=14387" alt=""
+style="position:absolute;width:1px;height:1px;left:-999px;top:-999px;"></noscript>
+-->
+<!-- WebVisor --> 
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(167221, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/167221" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+
+
+<div id="pd_process_allow_modal" style="display:none;">
+	<div style="max-height:400px; overflow:auto;">
+		<h3>Согласие на обработку персональных данных</h3>
+		<p>В соответствии с требованиями Федерального Закона от 27.07.2006 №152-ФЗ «О персональных данных» принимаю решение о предоставлении моих персональных данных и даю согласие на их обработку свободно, своей волей и в своем интересе.</p>
+		<p style="font-weight:bold;">Наименование и адрес оператора, получающего согласие субъекта на обработку его персональных данных:</p>
+		<p>ПАО «Россети Урал», 620026, г. Екатеринбург, ул. Мамина-Сибиряка, 140 Телефон: 8-800-2200-220.</p>
+		<p style="font-weight:bold;">Цель обработки персональных данных:</p>
+		<p>Обеспечение выполнения уставной деятельности «Россети Урал».</p>
+		<p style="font-weight:bold;">Перечень персональных данных, на обработку которых дается согласие субъекта персональных данных:</p>
+		<ul style="margin-bottom:20px;">
+			<li>&mdash; фамилия, имя, отчество;</li>
+			<li>&mdash; место работы и должность;</li>
+			<li>&mdash; электронная почта;</li>
+			<li>&mdash; адрес;</li>
+			<li>&mdash; номер контактного телефона.</li>
+		</ul>
+		<p style="font-weight:bold;">Перечень действий с персональными данными, на совершение которых дается согласие:</p>
+		<p>Любое действие (операция) или совокупность действий (операций) с персональными данными, включая сбор, запись, систематизацию, накопление, хранение, уточнение (обновление, изменение), извлечение, использование, передачу, обезличивание, блокирование, удаление, уничтожение.</p>
+		<p>Персональные данные в ПАО «Россети Урал» могут обрабатываться как на бумажных носителях, так и в электронном виде только в информационной системе персональных данных ПАО «Россети Урал» согласно требованиям Положения о порядке обработки персональных данных контрагентов в ПАО «Россети Урал», с которым я ознакомлен(а).</p>
+		<p>Согласие на обработку персональных данных вступает в силу со дня передачи мною в ПАО «Россети Урал» моих персональных данных.</p>
+		<p>Согласие на обработку персональных данных может быть отозвано мной в письменной форме. В случае отзыва согласия на обработку персональных данных.</p>
+		<p>ПАО «Россети Урал» вправе продолжить обработку персональных данных при наличии оснований, предусмотренных в п. 2-11 ч. 1 ст. 6 Федерального Закона от 27.07.2006 №152-ФЗ «О персональных данных».</p>
+		<p>Срок хранения моих персональных данных – 5 лет.</p>
+		<p>В случае отсутствия согласия субъекта персональных данных на обработку и хранение своих персональных данных ПАО «Россети Урал» не имеет возможности принятия к рассмотрению заявлений (заявок).</p>
+	</div>
+</div>
+
+
+<script>
+$('#pd_process_allow_modal').dialog({
+	autoOpen: false,
+	modal: true,
+	width: 700,
+	buttons: {
+		'Ok': function(){
+			$(this).dialog('close');
+		}
+	}
+});
+
+$(document).on('click', '.js-pd-process-allow-modal-open', function(){
+	$('#pd_process_allow_modal').dialog('open');
+	return false;
+});
+</script>
+
+
+
+<!-- Button visually impaired -->
+<script src="/public/themes/default/libs/button-visually-impaired-javascript/js/bvi.min.js?v2.1"></script>
+<script>
+new isvek.Bvi();
+</script>
+
+
+
+</body>
+</html>
